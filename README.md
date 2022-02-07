@@ -8,7 +8,7 @@ Based on original Atari game
 
 
 
-## Development Description
+## Development
 
 Created using JavaScript and HTML following Mt. Ford's tutorial on YouTube. 
 
@@ -18,7 +18,7 @@ Check out the tutorial here:
 https://www.youtube.com/watch?v=H9CSWMxJx84
 
 
-## How to Play
+## How To Play
 
 You can load the game up by clicking the URL provided in this repo's sidebar or, if that is not running, clone the repo and 
 open the asteroid-game.html file in your favorite browser.
