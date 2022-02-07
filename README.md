@@ -5,8 +5,9 @@ Based on original Atari game
 
 <img width="766" alt="Screen Shot 2022-02-06 at 11 38 13 PM" src="https://user-images.githubusercontent.com/95384975/152730746-987fe81c-7e3d-4ec5-a111-227038629ed7.png">
 
+## What I Would Like To Add
 
-
+I would like to create a simple neural network that can beat the game
 
 ## Development
 
