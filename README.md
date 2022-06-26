@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=H9CSWMxJx84
 ## How To Play
 
 You can load the game up by clicking the URL provided in this repo's sidebar or, if that is not running, clone the repo and 
-open the asteroid-game.html file in your favorite browser.
+open the index.html file in your favorite browser.
 
 Up arrow thrusts the spaceship while left and right arrows steer.
 
